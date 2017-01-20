@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DBModel\bin\Debug\DBModel.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DBModel\bin\Debug\DBModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DBModel\bin\Debug\DBModel.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DBModel\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DBModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DBModel\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DBModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DBModel\obj\Debug\FoodCourtDBModel.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DBModel\obj\Debug\DBModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DBModel\obj\Debug\DBModel.pdb

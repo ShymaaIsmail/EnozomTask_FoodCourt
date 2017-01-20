@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+    }
+<!DOCTYPE html>
+<html lang="en" data-ng-app="app" >
+<head>
+    <meta charset="utf-8" />
+    <title>Food-Court Application</title>
+    @Styles.Render("~/Content/Style")
+ 
+</head>
+<body>
+
+    <div ng-cloak  id="app" ui-view></div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/angular")
+    @Scripts.Render("~/bundles/app")
+
+    @Scripts.Render("~/bundles/directives")
+</body>
+</html>

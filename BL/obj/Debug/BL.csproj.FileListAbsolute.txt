@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\BL.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\BL.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\AutoMapper.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\DBModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\ViewModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\Repository.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\DBModel.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\ViewModel.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\Repository.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\obj\Debug\BL.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\BL\obj\Debug\BL.pdb

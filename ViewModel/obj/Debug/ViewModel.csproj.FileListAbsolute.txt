@@ -1,0 +1,5 @@
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\ViewModel\obj\Debug\ViewModel.pdb

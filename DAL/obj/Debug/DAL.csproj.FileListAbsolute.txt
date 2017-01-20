@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DAL\bin\Debug\DBModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DAL\bin\Debug\Repository.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DAL\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DAL\bin\Debug\DBModel.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DAL\bin\Debug\Repository.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DAL\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\DAL\obj\Debug\DAL.pdb

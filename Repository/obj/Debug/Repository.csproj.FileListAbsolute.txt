@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\bin\Debug\Repository.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\bin\Debug\Repository.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\bin\Debug\Repository.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\bin\Debug\DBModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\bin\Debug\DBModel.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\obj\Debug\Repository.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EnozomFoodcourtTask\Repository\obj\Debug\Repository.pdb

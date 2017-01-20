@@ -1,0 +1,31 @@
+﻿<div ng-controller="storeController as vm" >
+    <div style="text-align:center; font-weight:bold">
+        Admin-Store Management
+    </div>
+    <div data-ng-include="'App/ControlPanel/Store/store-addEdit.html'"></div>
+
+    <a href="javascript:void(0)" ng-click="vm.AddStorePoUp()" role="button" class="btn btn-success" data-toggle="modal">Add New Store</a>
+   
+        
+            <table ng-table="vm.tableParams" class="table" show-filter="true">
+                <tr ng-repeat="store in $data track by $index">
+                    <td title="'StoreName'" filter="{ StoreName: 'text'}" sortable="'StoreName'">
+                        {{store.StoreName}}
+                    </td>
+                    <td title="'StoreDescription'" filter="{ StoreDescription: 'text'}" sortable="'StoreDescription'">
+                        {{store.StoreDescription}}
+                    </td>
+                    <td title="'StoreLogo'">
+                        <img style="width:50px;height:40px;" src="{{vm.HostUrl()}}{{store.StoreLogo}}" />
+                    </td>
+
+                    <td title="'Edit'">
+                        <a ng-click="vm.EditStorePoUp(store)">Edit</a>
+                    </td>
+                    <td title="'Delete'">
+                        <a confirmed-click="vm.DeleteStorePopUp(store.StoreID)" ng-confirm-click="Are you sure to Delete Store?">Delete</a> 
+                    </td>
+                   
+                </tr>
+        </table>
+    </div>

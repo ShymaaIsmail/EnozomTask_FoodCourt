@@ -1,0 +1,19 @@
+﻿<div ng-controller="storeNavigationController as vm">
+    <div style="text-align:center; font-weight:bold">
+        Public-Store Navigation
+    </div>
+
+    <table ng-table="vm.tableParams" class="table" show-filter="true">
+        <tr ng-repeat="store in $data track by $index">
+            <td title="'Shop'" filter="{ StoreName: 'text'}" >
+                <img style="width:50px;height:40px;" src="{{vm.HostUrl()}}{{store.StoreLogo}}" />
+                <ul>
+                    <li> {{store.StoreName}}</li>
+                    
+                    <li> {{store.StoreDescription}}</li>
+                </ul>
+
+            </td>
+        </tr>
+    </table>
+</div>
